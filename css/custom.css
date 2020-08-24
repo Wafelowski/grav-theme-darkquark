@@ -1,0 +1,25 @@
+/* Markdown Notices */
+.notices.yellow {
+    border-left: 10px solid #935b0c;
+    background: #31220b;
+    color: #eea034;
+}
+
+.notices.red {
+    border-left: 10px solid #89211e;
+    background: #2e0b0b;
+    color: #db5a56;
+}
+
+.notices.blue {
+    border-left: 10px solid #1b6e86;
+    background: #13222a;
+    color: #4bb9da;
+}
+
+.notices.green {
+    border-left: 10px solid #347834;
+    background: #192c13;
+    color: #7ac57a;
+}
+/* --- */
