@@ -3,3 +3,6 @@
 
 1. [](#new)
     * Theme release...
+	* Support for LangSwitcher
+	* Font Awesome 5 Added
+
