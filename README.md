@@ -30,9 +30,13 @@ Quark Features:
   * Hero Modular view template `hero.md`
   * Text Modular view template `text.md`
 
+### Upcoming
+
+* LangSwitcher support for mobile version
+
 ## Notice
 
-**DarkQuark** is just a dark version with some improvements of the default Quark theme. I will be happy to fix wrong colors or update the theme to latest Quark version, but please do not expect me (Wafel) to implement new features or options. However I'm open to any suggestions
+**DarkQuark** is just a dark version with some improvements of the default Quark theme. I will be happy to fix wrong colors or update the theme to latest Quark version, but please do not expect me (Wafel) to implement anything new to the theme apart from plugin support. However I'm open to any suggestions
 
 # Installation
 
