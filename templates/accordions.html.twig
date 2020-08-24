@@ -1,0 +1,18 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+
+{{ content }}
+
+<div class="uk-accordion" data-uk-accordion>
+
+    {% for faq in page.header.faq %}
+
+        <h3 class="uk-accordion-title">{{ faq.question }}</h3>
+        <div class="uk-accordion-content">{{ faq.answer }}</div>
+
+    {% endfor %}
+
+</div>
+
+{% endblock %}
