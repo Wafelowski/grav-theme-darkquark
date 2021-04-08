@@ -1,12 +1,12 @@
 name: darkquark
 slug: darkquark
 type: theme
-version: 1.0.0
+version: 1.0.3
 description: Quark but Dark!
 icon: moon-o
 author:
   name: Team Grav for Quark. Dark by Wafel
-  email: wafelowskiwafel@gmail.com
+  email: heavywolfpl@gmail.com
   url: http://wafelowski.dev/
 homepage: https://github.com/HeavyWolfPL/grav-theme-darkquark
 demo: https://scpsl-faq.xyz/
