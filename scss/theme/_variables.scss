@@ -20,8 +20,8 @@ $header-height-large: 4rem;
 $header-height-small: 2.3rem;
 $header-color-dark: #181a1b;
 $header-text-light: $light-color;
-$header-text-dark: darken($dark-color, 15%);
-
+//$header-text-dark: darken($dark-color, 15%);
+$header-text-dark: $light-color;
 // Dropdown Menu
 $dropmenu-bg: $light-color;
 $dropmenu-hover-text: $primary-color;
