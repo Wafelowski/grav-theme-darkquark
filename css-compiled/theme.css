@@ -12,9 +12,9 @@ section.section { padding-left: 1rem; padding-right: 1rem; position: relative; }
 
 .hero { display: -ms-flexbox; display: flex; -ms-flex-align: center; align-items: center; -ms-flex-pack: center; justify-content: center; padding-top: 6rem; padding-bottom: 7rem; background-size: cover; background-position: center; }
 
-.hero h1 { color: #242931; font-size: 4rem; }
+.hero h1 { color: #ccc; font-size: 4rem; }
 
-.hero h2 { color: rgba(36, 41, 49, 0.8); font-size: 2.5rem; }
+.hero h2 { color: rgba(204, 12, 0, 0.8); font-size: 2.5rem; }
 
 .hero.hero-fullscreen { min-height: 100vh; }
 
