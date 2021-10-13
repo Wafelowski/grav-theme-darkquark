@@ -9,6 +9,7 @@ Dark Quark additional features:
 * Eye-friendly during the night!
 * Support for LangSwitcher
 * Font Awesome 5 Added
+* Shortcode UI support
 
 Quark Features:
 * Lightweight and minimal for optimal performance

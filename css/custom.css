@@ -23,3 +23,77 @@
     color: #7ac57a;
 }
 /* --- */
+
+/* Shortcode UI */
+
+.accordion-wrapper {
+    margin: 30px 0;
+    text-align: left; }
+    .accordion-wrapper label {
+      color: #ccc;
+      background: #272727;
+      border: 1px solid #000; 
+      border-bottom: 1px solid transparent; }
+      .accordion-wrapper label:hover {
+        background: #2d2d2d;
+        color: #fff; }
+    .accordion-wrapper article {
+      background: rgba(39, 39, 39, 0.5);
+      border: 1px solid #000; }
+  .accordion-wrapper input:checked + label {
+    border-bottom: 1px solid #000; }
+  .accordion-wrapper > div:last-child label, .accordion-wrapper > div:last-child input:checked ~ article {
+    border-bottom: 1px solid #000; }
+
+
+.tab {
+    border-bottom: .05rem solid rgba(39, 39, 39, 0.5); }
+
+.tabs-wrapper {
+    display: block; }
+    .tabs-wrapper.ui-theme-lite .tabs-nav li.current a {
+        border-bottom: 1px solid #3085ee; }
+    .tabs-wrapper.ui-theme-lite .tabs-nav li:hover {
+        background: rgba(39, 39, 39, 0.5); }
+    .tabs-wrapper.ui-theme-lite.bottom-right .tabs-nav li.current a, .tabs-wrapper.ui-theme-lite.bottom-left .tabs-nav li.current a {
+        border-top: 1px solid #909090; }
+    .tabs-wrapper.ui-theme-lite.bottom-right .tab, .tabs-wrapper.ui-theme-lite.bottom-left .tab {
+        border-bottom: 1px solid #e9e9e9; }
+    .tabs-wrapper.ui-theme-lite .tab {
+        border-top: 1px solid #000;
+        background-color: rgba(39, 39, 39, 0.5); 
+        padding: 0.4rem; }
+
+
+.browser-frame {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  border: 1px solid #272727; }
+  .browser-frame .btoolbar {
+    height: 40px;
+    background: #272727;
+    color: #bbb;
+    border-bottom: 1px solid #272727; }
+  .browser-frame .btoolbar-button {
+    background: #bbb; }
+  .browser-frame .btoolbar-address {
+    background: rgba(39, 39, 39, 0.5);
+    border: 1px solid #bbb; }
+
+.cd-image-container {
+    position: relative; }
+    .cd-image-label {
+    color: #ccc; }
+    .cd-handle {
+    color: #ccc;
+    background: #3085ee; }
+    .cd-handle.draggable {
+    background-color: #1e6bc9; }
+
+.polaroid-wrapper .polaroid {
+  background: #272727;
+  border: 1px solid #272727; }
+
+.polaroid-wrapper .polaroid-img {
+  background: #272727; }
+
+/* --- */
